@@ -1,0 +1,1002 @@
+Companie,Processor,Ram Size,Ram Type,Rating,Rating Counts,Os,Storage,Display Size
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,725,Windows 11 Operating System,256 GB SSD,39.62 
+HP,Intel Core i3 Processor (11th Gen),8,DDR4,4.3,"11,625",64 bit Windows 11 Operating System,512 GB SSD,35.56 
+Apple,Apple M1 Processor,8,DDR4,4.7,"12,979",Mac OS Operating System,256 GB SSD,33.78 
+DELL,Intel Core i3 Processor (12th Gen),8,DDR4,4.2,379,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i3 Processor (11th Gen),8,DDR4,4.3,"7,027",64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Stylish & Portable Thin and Light Laptop,LPDDR5,-faster,4.1,"1,460",Firmware TPM (Trusted Platform Module)-Improved Security of your PC,NaN,Latest WiFi 6
+SAMSUNG,Intel Core i5 Processor (12th Gen),8,DDR4,4.3,"1,995",Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+Apple,Apple M1 Processor,8,DDR4,4.7,"12,979",Mac OS Operating System,256 GB SSD,33.78 
+Lenovo,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,"2,770",Windows 11 Operating System,256 GB SSD,100.63 
+Lenovo,Intel Celeron Dual Core Processor (4th Gen),8,DDR4,4,"2,002",64 bit Windows 11 Operating System,256 GB SSD,39.62 
+CHUWI,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD Storage",Hard-Decoding,UHD,3.6,217,Intel Celeron Dual Core Processor (11th Gen),NaN,64 bit Windows 11 Operating System
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+DELL,Intel Core i5 Processor (12th Gen),8,DDR4,4,38,Windows 11 Operating System,512 GB SSD,39.62 
+SAMSUNG,Intel Core i5 Processor (12th Gen),16,DDR4,4.3,"1,995",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+WINGS,Intel Core i7 Processor (11th Gen),16,DDR4,4,82,Windows 11 Operating System,512 GB SSD,35.56 
+HP,AMD Ryzen 3 Dual Core Processor,8,DDR4,4.2,"3,744",Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Celeron Dual Core Processor,8,DDR4,4,371,Windows 11 Operating System,256 GB SSD,35.56 
+HP,AMD Athlon Dual Core Processor,4,DDR4,3.9,927,DOS Operating System,256 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+SAMSUNG,Intel Core i5 Processor (13th Gen),8,LPDDR4X,4.4,590,Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i3 Processor (11th Gen),8,DDR4,3.8,6,Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Celeron Dual Core Processor (4th Gen),8,DDR4,4,"2,002",64 bit Windows 11 Operating System,256 GB SSD,39.62 
+Ultimus,Intel Celeron Dual Core Processor,4,DDR4,3.3,"2,490",Windows 11 Operating System,NaN,1 Year On-Site Warranty
+Lenovo,AMD Ryzen 3 Quad Core Processor,8,LPDDR5,4,104,Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i3 Processor,8,LPDDR5,4.1,461,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Celeron Dual Core Processor,4,LPDDR4X,3.9,302,Chrome Operating System,NaN,1 Year Onsite Warranty
+HP,AMD Ryzen 5 Hexa Core Processor,16,DDR4,4.3,"2,516",64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,40.64 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i3 Processor (12th Gen),8,DDR4,4.2,"2,814",64 bit Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i5 Processor (11th Gen),8,DDR4,4,49,Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Core i3 Processor (12th Gen),8,DDR4,4.2,511,Windows 11 Operating System,512 GB SSD,39.62 
+MSI,Intel Core i3 Processor (11th Gen),8,DDR4,4.3,"2,359",Windows 11 Operating System,512 GB SSD,35.56 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+MSI,AMD Ryzen 5 Hexa Core Processor,16,DDR4,4.4,795,Windows 11 Operating System,512 GB SSD,35.56 
+Lenovo,Intel Core i5 Processor (12th Gen),16,DDR4,4.3,421,Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Celeron Dual Core Processor,4,LPDDR4X,3.8,759,Chrome Operating System,NaN,1 Year Onsite Warranty
+SAMSUNG,Intel Core i5 Processor (13th Gen),8,LPDDR4X,4.4,590,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,AMD Ryzen 7 Octa Core Processor,16,DDR4,4.1,"1,080",Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i3 Processor (12th Gen),8,DDR4,4.3,"1,634",Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Lenovo,Intel Core i7 Processor (12th Gen),16,DDR4,4.1,390,Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Core i3 Processor (12th Gen),8,DDR4,4.2,511,Windows 11 Operating System,512 GB SSD,39.62 
+CHUWI,"Stylish, Thin and Portable Light Weight Laptop
+Processor: Intel Core i3-1005G1 (Base 1.20 GHz & Turbo upto 3.40 GHz) 2 Cores
+RAM/Storage: 8GB DDR4, 512GB SSD
+Display: 14.0"" FHD 280 nits
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keys",Intel,i3,4.1,896,8 GB DDR4 RAM,NaN,512 GB SSD
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i3 Processor (12th Gen),8,DDR4,4.3,52,64 bit Windows 11 Home Operating System,512 GB SSD,39.62 
+Acer,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,"5,511",64 bit Windows 11 Operating System,512 GB SSD,35.56 
+HP,AMD Ryzen 5 Hexa Core Processor,16,DDR4,4.3,352,Windows 11 Operating System,512 GB SSD,38.86 
+DELL,Intel Core i5 Processor (13th Gen),16,DDR4,4.1,23,Windows 11 Operating System,NaN,39.62 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,390,Windows 11 Operating System,256 GB SSD,39.62 
+ASUS,Intel Core i3 Processor (12th Gen),8,DDR4,4.2,73,Windows 11 Operating System,512 GB SSD,35.56 
+HP,Intel Core i5 Processor (12th Gen),8,DDR4,4.4,8,Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+Lenovo,AMD Athlon Dual Core Processor,8,DDR5,3.5,6,Windows 11 Operating System,512 GB SSD,39.62 
+MSI,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,574,Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Core i5 Processor (12th Gen),16,LPDDR5,4.2,694,Windows 11 Operating System,512 GB SSD,35.56 
+MSI,Intel Core i5 Processor (11th Gen),16,DDR4,4.2,"1,054",Windows 11 Operating System,512 GB SSD,35.56 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+CHUWI,"Stylish, Thin and Portable Light Weight Laptop
+Processor: Intel Core i3-1005G1 (Base 1.20 GHz & Turbo upto 3.40 GHz) 2 Cores
+RAM/Storage: 8GB DDR4, 512GB SSD
+Display: 14.0"" FHD 280 nits
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keys",Intel,i3,4.1,896,8 GB DDR4 RAM,NaN,512 GB SSD
+ASUS,Intel Celeron Dual Core Processor,8,DDR4,4.1,"1,210",Windows 11 Operating System,256 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,AMD Ryzen 5 Quad Core Processor,8,LPDDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,35.56 
+SAMSUNG,Intel Core i7 Processor (13th Gen),16,LPDDR4X,4.5,289,Windows 11 Operating System,512 GB SSD,39.62 
+MSI,AMD Ryzen 7 Octa Core Processor,16,DDR,4.4,"1,097",64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Infinix,Intel Core i3 Processor (12th Gen),8,LPDDR4X,4.1,982,Windows 11 Operating System,512 GB SSD,35.56 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+Infinix,Intel Core i5 Processor (11th Gen),16,LPDDR4X,4.3,49,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,AMD Ryzen 5 Hexa Core Processor,8,DDR5,4.3,180,Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,"Pre-installed Genuine Windows 10 Operating System (Includes Built-in Security, Free Automated Updates, Latest Features)",Intel,i7,3,2,8 GB DDR4 RAM,NaN,1 TB HDD|256 GB SSD
+HP,Intel Core i5 Processor (12th Gen),16,DDR4,4.3,196,Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i3 Processor (13th Gen),8,DDR4,4.2,207,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+HP,AMD Ryzen 5 Hexa Core Processor,8,DDR4,4.3,747,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (12th Gen),8,DDR4,4.3,"1,543",Windows 11 Operating System,512 GB SSD,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Acer,Intel Core i5 Processor (12th Gen),8,DDR4,4.2,"1,029",Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Core i5 Processor (12th Gen),8,DDR4,4,107,Windows 11 Operating System,512 GB SSD,39.62 
+Infinix,Intel Celeron Quad Core Processor (11th Gen),4,LPDDR4X,4.1,"1,118",Windows 11 Operating System,128 GB SSD,39.62 
+Ultimus,Intel Core i5 Processor (10th Gen),8,DDR4,3.5,190,Windows 11 Operating System,512 GB SSD,35.81 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+CHUWI,"Stylish, Thin and Portable Light Weight Laptop
+Processor: Intel Core i3-1005G1 (Base 1.20 GHz & Turbo upto 3.40 GHz) 2 Cores
+RAM/Storage: 8GB DDR4, 512GB SSD
+Display: 14.0"" FHD 280 nits
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keys",Intel,i3,4.1,896,8 GB DDR4 RAM,NaN,512 GB SSD
+ASUS,AMD Ryzen 5 Quad Core Processor,8,LPDDR5,4.2,910,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,AMD Ryzen 5 Hexa Core Processor,16,DDR4,4.4,198,Windows 11 Operating System,512 GB SSD,40.64 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,AMD Ryzen 7 Octa Core Processor,16,DDR4,4.3,125,64 bit Windows 11 Operating System,512 GB SSD,40.64 
+ASUS,AMD Ryzen 3 Quad Core Processor,8,LPDDR5,4.4,"1,176",Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,AMD Ryzen 7 Octa Core Processor,16,DDR4,4.5,8,64 bit Windows 11 Operating System,NaN,39.62 
+MSI,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,574,Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,390,Windows 11 Operating System,256 GB SSD,39.62 
+WINGS,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,390,Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i5 Processor (13th Gen),16,LPDDR5,3.7,29,64 bit Windows 11 Operating System,NaN,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Acer,AMD Ryzen 5 Quad Core Processor,8,LPDDR5,3.7,3,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i3 Processor (12th Gen),8,DDR4,4.2,"2,484",Windows 11 Operating System,512 GB SSD,39.62 
+SAMSUNG,Intel Core i7 Processor (13th Gen),16,LPDDR4X,4.5,289,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (13th Gen),16,DDR4,4.5,69,Windows 11 Operating System,512 GB SSD,40.64 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+MSI,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,301,Windows 11 Operating System,1 TB HDD|256 GB SSD,39.62 
+DELL,Intel Core i3 Processor (11th Gen),8,DDR4,4.4,200,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+Lenovo,Intel Core i5 Processor (13th Gen),16,LPDDR5,4.2,152,Windows 11 Operating System,512 GB SSD,40.64 
+HP,AMD Ryzen 3 Dual Core Processor,8,DDR4,3.8,47,DOS Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i7 Processor (12th Gen),16,DDR4,4.2,133,Windows 11 Operating System,512 GB SSD,35.56 
+HP,Intel Core i3 Processor (11th Gen),8,DDR4,4.3,"11,625",64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+HP,Intel Celeron Dual Core Processor,4,LPDDR4X,3.9,"2,589",Chrome Operating System,NaN,1 Year Onsite Warranty
+HP,AMD Ryzen 5 Hexa Core Processor,16,DDR4,4,38,64 bit Windows 10 Operating System,512 GB SSD,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,43.94 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+MSI,Intel Core i7 Processor (11th Gen),16,DDR4,4.3,879,Windows 11 Operating System,1 TB HDD|256 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (12th Gen),8,DDR4,4.1,900,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (13th Gen),16,DDR4,4.1,122,Windows 11 Operating System,512 GB SSD,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i3 Processor (11th Gen),8,DDR4,3.5,42,DOS Operating System,512 GB SSD,35.56 
+HP,AMD Ryzen 5 Hexa Core Processor,8,DDR4,4.3,"1,074",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+SAMSUNG,Intel Core i5 Processor (13th Gen),16,LPDDR4X,4.4,590,Windows 11 Operating System,512 GB SSD,39.62 
+SAMSUNG,Intel Core i5 Processor (12th Gen),8,LPDDR4X,4.5,155,64 bit Windows 11 Operating System,256 GB SSD,39.62 
+Acer,Intel Core i3 Processor (13th Gen),8,LPDDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,35.56 
+Lenovo,AMD Ryzen 5 Quad Core Processor,8,LPDDR4,4.2,10,Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+Acer,Intel Core i3 Processor,8,LPDDR5,4.1,461,64 bit Windows 11 Operating System,256 GB SSD,39.62 
+HP,AMD Ryzen 3 Quad Core Processor,8,DDR4,4.3,"3,336",64 bit Windows 11 Operating System,512 GB SSD,35.56 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Acer,Intel Core i3 Processor (12th Gen),8,DDR5,4.7,3,Windows 11 Home Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (12th Gen),16,DDR4,4.4,"3,200",64 bit Windows 11 Operating System,512 GB SSD,35.56 
+ZEBRONICS,Intel Core i3 Processor (12th Gen),8,DDR4,3.9,35,Windows 11 Operating System,512 GB SSD,39.62 
+ZEBRONICS,Intel Core i3 Processor (12th Gen),8,DDR4,3.9,35,Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Celeron Dual Core Processor (4th Gen),8,DDR4,3.7,133,64 bit DOS Operating System,256 GB SSD,39.62 
+SAMSUNG,Intel Core i5 Processor (12th Gen),8,LPDDR4X,4.5,155,64 bit Windows 11 Operating System,256 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Lenovo,AMD Ryzen 3 Hexa Core Processor,8,DDR4,4.2,318,Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i7 Processor (13th Gen),16,DDR4,4.2,161,64 bit Windows 11 Operating System,NaN,39.62 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i3 Processor (12th Gen),8,DDR5,4.7,3,Windows 11 Home Operating System,512 GB SSD,39.62 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Core i5 Processor (12th Gen),16,DDR4,4.3,421,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,AMD Ryzen 7 Octa Core Processor,16,LPDDR4X,4.4,179,Windows 11 Operating System,NaN,35.56 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+SAMSUNG,Intel Core i5 Processor (13th Gen),16,LPDDR4X,4.4,590,Windows 11 Operating System,512 GB SSD,39.62 
+HP,AMD Ryzen 5 Hexa Core Processor,16,DDR4,4.3,352,Windows 11 Operating System,512 GB SSD,38.86 
+ASUS,Intel Celeron Dual Core Processor,8,DDR4,4.1,"1,210",Windows 11 Operating System,256 GB SSD,39.62 
+HP,AMD Ryzen 5 Hexa Core Processor,8,DDR4,NaN,NaN,Windows 11 Home Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+Infinix,Intel Core i5 Processor (11th Gen),16,LPDDR4X,4.1,916,Windows 11 Operating System,NaN,35.56 
+Apple,Apple M1 Processor,8,DDR4,4.7,"12,979",Mac OS Operating System,256 GB SSD,33.78 
+WINGS,Intel Core i7 Processor (11th Gen),16,DDR4,4,82,Windows 11 Operating System,512 GB SSD,35.56 
+Lenovo,Intel Core i5 Processor (12th Gen),16,DDR4,4.2,"1,400",64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,AMD Athlon Dual Core Processor,4,DDR4,3.7,413,DOS Operating System,256 GB SSD,35.56 
+CHUWI,"Display: 13.5"" Ultra HD 2K 3:2 touchscreen display",Processor:,Intel,4.7,20,Graphics: Intel integrated UHD Graphics GPU,NaN,360-degree foldable screen
+realme,Intel Core i5 Processor (11th Gen),16,LPDDR4X,4.3,545,Windows 11 Operating System,512 GB SSD,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+ASUS,AMD Ryzen 5 Hexa Core Processor,16,DDR4,4.3,53,Windows 11 Operating System,NaN,40.64 
+ASUS,Intel Core i5 Processor (10th Gen),8,DDR4,4.4,"6,068",64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+HP,AMD Athlon Dual Core Processor,8,DDR4,3.7,816,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i5 Processor (13th Gen),16,DDR4,4,29,Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i3 Processor (12th Gen),8,DDR4,4.1,14,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Infinix,Intel Core i9 Processor (13th Gen),32,LPDDR5X,4.1,443,Windows 11 Operating System,NaN,39.62 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+HP,Intel Core i5 Processor (13th Gen),16,DDR4,4.3,250,Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i3 Processor (12th Gen),8,DDR4,4.2,11,Windows 11 Operating System,256 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+Lenovo,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"5,026",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i3 Processor (12th Gen),8,DDR4,4.2,638,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i3 Processor,8,LPDDR5,4,17,Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Lenovo,Intel Core i5 Processor (12th Gen),8,DDR4,4.2,"1,400",64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i3 Processor (13th Gen),8,LPDDR5,3.9,17,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i3 Processor (11th Gen),8,DDR4,4.1,"1,549",64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Infinix,Intel Core i5 Processor (13th Gen),16,LPDDR5X,4.1,310,Windows 11 Operating System,512 GB SSD,39.62 
+HP,AMD Athlon Dual Core Processor,8,LPDDR4,3.8,12,Windows 11 Operating System,256 GB SSD,39.62 
+ASUS,AMD Ryzen 5 Quad Core Processor,8,LPDDR5,4.2,910,Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+DELL,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,64 bit Windows 11 Home Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (13th Gen),16,DDR5,4.3,25,Windows 11 Operating System,512 GB SSD,40.89 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+CHUWI,"Stylish, Thin and Portable Light Weight Laptop
+Processor: Intel Core i3-1005G1 (Base 1.20 GHz & Turbo upto 3.40 GHz) 2 Cores
+RAM/Storage: 8GB DDR4, 512GB SSD
+Display: 14.0"" FHD 280 nits
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keys",Intel,i3,4.1,896,8 GB DDR4 RAM,NaN,512 GB SSD
+HP,Intel Core i3 Processor (11th Gen),8,DDR4,4.1,638,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,AMD Athlon Dual Core Processor,8,DDR4,3.7,816,Windows 11 Operating System,NaN,35.56 
+ASUS,AMD Ryzen 5 Hexa Core Processor,8,DDR4,4.4,960,Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,283,Windows 11 Operating System,512 GB SSD,100.63 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+MSI,Intel Core i5 Processor (13th Gen),16,DDR4,4.1,50,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+DELL,AMD Ryzen 3 Dual Core Processor,8,DDR4,4.1,486,64 bit Windows 10 Operating System,NaN,39.62 
+DELL,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,64 bit Windows 11 Home Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (13th Gen),16,DDR5,4.3,25,Windows 11 Operating System,512 GB SSD,40.89 
+DELL,AMD Ryzen 5 Hexa Core Processor,16,DDR4,4.1,7,64 bit Windows 11 Operating System,512 GB SSD,35.56 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+HP,AMD Ryzen 7 Octa Core Processor,16,DDR4,4.4,286,Windows 11 Operating System,512 GB SSD,39.62 
+HP,AMD Ryzen 5 Hexa Core Processor,16,DDR4,3.9,27,Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+Lenovo,Intel Core i5 Processor (12th Gen),8,DDR4,4.2,"1,400",64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,AMD Ryzen 5 Hexa Core Processor,8,DDR4,3.6,65,Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Pentium Quad Core Processor,8,DDR4,NaN,NaN,Windows 11 Operating System,512 GB SSD,35.56 
+HP,Intel Core i5 Processor (13th Gen),8,DDR4,4.2,254,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+HP,AMD Ryzen 3 Dual Core Processor,8,DDR4,4,36,DOS Operating System,512 GB SSD,35.56 
+DELL,Intel Core i3 Processor (12th Gen),8,DDR4,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i7 Processor (11th Gen),16,DDR4,4,82,Windows 11 Operating System,512 GB SSD,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,43.94 
+DELL,Intel Core i5 Processor (11th Gen),8,DDR4,4.4,9,Windows 11 Operating System,512 GB SSD,35.56 
+ASUS,Intel Core i3 Processor (12th Gen),16,DDR4,4.3,302,Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,AMD Ryzen 5 Hexa Core Processor,16,DDR4,4.5,22,Windows 11 Operating System,512 GB SSD,35.56 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,AMD Ryzen 5 Quad Core Processor,16,LPDDR5,3.8,48,Windows 11 Operating System,512 GB SSD,39.62 
+MSI,Intel Core i5 Processor (12th Gen),16,DDR4,4.3,15,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+MSI,Intel Core i5 Processor (11th Gen),8,DDR4,4.2,33,Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i5 Processor (11th Gen),8,DDR4,3.7,"1,746",Windows 11 Operating System,512 GB SSD,35.56 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.5,54,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i5 Processor (12th Gen),16,DDR4,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+CHUWI,"Stylish, Thin and Portable Light Weight Laptop
+Processor: Intel Core i3-1005G1 (Base 1.20 GHz & Turbo upto 3.40 GHz) 2 Cores
+RAM/Storage: 8GB DDR4, 512GB SSD
+Display: 14.0"" FHD 280 nits
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keys",Intel,i3,4.1,896,8 GB DDR4 RAM,NaN,512 GB SSD
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i3 Processor (13th Gen),8,LPDDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,AMD Ryzen 5 Hexa Core Processor,8,DDR4,4.4,960,Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,390,Windows 11 Operating System,256 GB SSD,39.62 
+ASUS,Intel Core i3 Processor (10th Gen),8,DDR4,3.6,"1,733",64 bit Windows 11 Operating System,NaN,39.62 
+Acer,AMD Ryzen 5 Hexa Core Processor,8,DDR4,4,60,Windows 11 Operating System,512 GB SSD,35.56 
+Acer,AMD Ryzen 5 Hexa Core Processor,16,DDR4,4,60,Windows 11 Operating System,512 GB SSD,35.56 
+DELL,Processor: Intel i7-1255U (Base- 3.50 GHz & Turbo up to 4.70 GHz) 10 Cores,RAM,Storage:,4.1,30,Graphics & Keyboard: NVIDIAGeForceMX550 (2GB GDDR6) + Fingerprint Reader,NaN,Intel Core i7 Processor (12th Gen)
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+Lenovo,Intel Celeron Dual Core Processor (4th Gen),8,DDR4,3,2,64 bit Windows 11 Operating System,256 GB SSD,39.62 
+Lenovo,Intel Core i3 Processor (12th Gen),8,DDR4,4.1,549,Windows 11 Operating System,512 GB SSD,90.32 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+ASUS,Intel Core i7 Processor (11th Gen),16,LPDDR4,4.7,13,64 bit Windows 11 Home Operating System,NaN,39.62 
+Infinix,Intel Celeron Quad Core Processor (11th Gen),4,LPDDR4X,4.1,"1,118",Windows 11 Operating System,128 GB SSD,39.62 
+Acer,Intel Core i3 Processor (12th Gen),8,DDR4,5,13,Windows 11 Operating System,512 GB SSD,39.62 
+ZEBRONICS,Intel Core i7 Processor (12th Gen),16,DDR4,4,10,Windows 11 Operating System,NaN,39.62 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+HP,AMD Ryzen 5 Quad Core Processor,16,LPDDR5,4.3,40,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,AMD Ryzen 7 Octa Core Processor,16,DDR4,4.3,173,Windows 11 Operating System,512 GB SSD,35.56 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+HP,Intel Core i3 Processor (12th Gen),8,DDR4,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Core i3 Processor (12th Gen),8,DDR4,4.1,885,64 bit Windows 11 Operating System,512 GB SSD,100.63 
+Lenovo,AMD Athlon Dual Core Processor,4,DDR4,3.9,253,Windows 10 Operating System,256 GB SSD,35.56 
+DELL,Intel Core i5 Processor (12th Gen),8,DDR4,4,9,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+realme,Intel Core i5 Processor (11th Gen),8,LPDDR4X,4.2,341,Windows 11 Operating System,512 GB SSD,35.56 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,43.94 
+Lenovo,Intel Core i5 Processor (12th Gen),8,DDR4,4.3,3,Windows 11 Operating System,512 GB SSD,40.64 
+HP,Intel Core i3 Processor,8,DDR4,4.3,479,64 bit Windows 11 Operating System,512 GB SSD,35.56 
+DELL,AMD Ryzen 5 Quad Core Processor,8,DDR4,3.8,25,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,AMD Ryzen 5 Quad Core Processor,16,LPDDR5,4.3,40,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+ZEBRONICS,Intel Core i5 Processor (11th Gen),8,LPDDR4X,4,325,Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i7 Processor (13th Gen),16,LPDDR5,3.8,9,64 bit Windows 11 Operating System,NaN,35.81 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,AMD Ryzen 5 Hexa Core Processor,16,DDR4,4.3,664,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i7 Processor (11th Gen),16,LPDDR4,4.7,13,64 bit Windows 11 Home Operating System,NaN,39.62 
+HP,AMD Ryzen 5 Hexa Core Processor,8,DDR5,4.3,180,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (12th Gen),8,DDR4,4.3,"2,119",64 bit Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+Lenovo,Intel Core i3 Processor (12th Gen),8,DDR4,4.1,885,64 bit Windows 11 Operating System,512 GB SSD,100.63 
+Lenovo,AMD Athlon Dual Core Processor,4,DDR4,3.9,253,Windows 10 Operating System,256 GB SSD,35.56 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+CHUWI,"Stylish, Thin and Portable Light Weight Laptop
+Processor: Intel Core i3-1005G1 (Base 1.20 GHz & Turbo upto 3.40 GHz) 2 Cores
+RAM/Storage: 8GB DDR4, 512GB SSD
+Display: 14.0"" FHD 280 nits
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keys",Intel,i3,4.1,896,8 GB DDR4 RAM,NaN,512 GB SSD
+DELL,AMD Ryzen 5 Hexa Core Processor,8,DDR4,4.7,3,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,AMD Ryzen 7 Octa Core Processor,16,DDR4,4.4,158,Windows 11 Operating System,512 GB SSD,39.62 
+Acer,AMD Ryzen 5 Quad Core Processor,8,LPDDR5,3.8,5,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+DELL,Intel Core i5 Processor (12th Gen),16,DDR4,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,AMD Ryzen 5 Quad Core Processor,8,LPDDR5,3.3,3,Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+SAMSUNG,Intel Core i7 Processor (13th Gen),16,DDR5,4.7,6,Windows 11 Operating System,NaN,40.64 
+ASUS,Intel Core i7 Processor (13th Gen),16,LPDDR5,5,10,Windows 11 Operating System,512 GB SSD,35.56 
+Acer,Intel Core i5 Processor (8th Gen),8,DDR3,4,15,64 bit Windows 10 Operating System,256 GB SSD,35.56 
+Acer,Intel Core i3 Processor (11th Gen),8,DDR4,4.3,166,Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+Lenovo,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,"2,770",64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Core i5 Processor (12th Gen),8,DDR4,4.2,"1,400",64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+HP,Intel Core i5 Processor (12th Gen),8,DDR4,4.3,18,Windows 11 Operating System,512 GB SSD,39.62 
+SAMSUNG,Intel Core i5 Processor (13th Gen),16,LPDDR4X,4.4,590,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Celeron Dual Core Processor,4,DDR4,4.1,"3,059",64 bit Windows 11 Operating System,256 GB SSD,35.56 
+HP,Intel Core i5 Processor (12th Gen),16,LPDDR4X,4.3,127,Windows 11 Operating System,512 GB SSD,85.8 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,43.94 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i5 Processor (13th Gen),8,LPDDR5,4,8,64 bit Windows 11 Operating System,512 GB SSD,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i3 Processor (12th Gen),8,DDR4,4.2,"2,484",Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (13th Gen),16,DDR4,4.1,122,Windows 11 Operating System,512 GB SSD,35.56 
+ASUS,Intel Core i5 Processor (12th Gen),16,DDR4,NaN,NaN,Windows 11 Operating System,512 GB SSD,40.64 
+HP,Intel Core i3 Processor,8,DDR4,4.3,479,64 bit Windows 11 Operating System,512 GB SSD,35.56 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,208,32 bit Windows 11 Operating System,512 GB SSD,35.56 
+Lenovo,AMD Ryzen 5 Hexa Core Processor,16,DDR4,4.4,98,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+Lenovo,Intel Core i5 Processor (13th Gen),16,LPDDR5,4.1,80,Windows 11 Operating System,512 GB SSD,35.56 
+HP,Intel Core i3 Processor (12th Gen),8,DDR4,4.1,12,Windows 11 Operating System,NaN,39.62 
+Lenovo,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,408,Windows 11 Operating System,512 GB SSD,39.62 
+Infinix,Intel Core i5 Processor (11th Gen),16,LPDDR4X,4.3,49,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+ASUS,Intel Core i7 Processor (12th Gen),16,DDR4,4.5,146,Windows 11 Operating System,512 GB SSD,39.62 
+GIGABYTE,Intel Core i5 Processor (12th Gen),16,DDR4,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,43.94 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Infinix,Intel Core i5 Processor (12th Gen),16,LPDDR4X,4.1,806,Windows 11 Operating System,512 GB SSD,35.56 
+Lenovo,AMD Ryzen 5 Hexa Core Processor,16,DDR4,5,10,64 bit Windows 10 Operating System,512 GB SSD,33.78 
+HP,Intel Core i3 Processor (12th Gen),8,DDR4,4.5,134,Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+MSI,Intel Core i7 Processor (12th Gen),16,DDR5,4.2,13,Windows 11 Operating System,NaN,39.62 
+HP,Intel Core i5 Processor (12th Gen),8,DDR4,4.1,781,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,AMD Ryzen 5 Hexa Core Processor,8,DDR4,4.3,"2,516",64 bit Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i9 Processor (12th Gen),32,DDR5,NaN,NaN,64 bit Windows 11 Operating System,NaN,43.94 
+MSI,Intel Core i7 Processor (12th Gen),16,DDR5,4.8,8,Windows 11 Operating System,NaN,43.94 
+Acer,AMD Ryzen 5 Quad Core Processor,8,LPDDR5,3.8,5,Windows 11 Operating System,512 GB SSD,39.62 
+CHUWI,"Stylish, Thin and Portable Light Weight Laptop
+Processor: Intel Core i3-1005G1 (Base 1.20 GHz & Turbo upto 3.40 GHz) 2 Cores
+RAM/Storage: 8GB DDR4, 512GB SSD
+Display: 14.0"" FHD 280 nits
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keys",Intel,i3,4.1,896,8 GB DDR4 RAM,NaN,512 GB SSD
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i3 Processor (11th Gen),8,DDR4,4.1,85,64 bit Windows 11 Operating System,512 GB SSD,35.56 
+Acer,Intel Core i5 Processor (12th Gen),16,DDR4,4.3,538,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,390,Windows 11 Operating System,256 GB SSD,39.62 
+HP,AMD Ryzen 7 Octa Core Processor,16,DDR5,4.5,156,64 bit Windows 11 Operating System,512 GB SSD,40.89 
+Lenovo,Intel Core i3 Processor (11th Gen),4,DDR4,4.3,7,64 bit Windows 10 Operating System,256 GB SSD,39.62 
+HP,AMD Ryzen 7 Octa Core Processor,16,DDR4,4.4,286,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i7 Processor (12th Gen),16,DDR5,4.4,178,Windows 11 Operating System,NaN,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+ASUS,AMD Ryzen 9 Octa Core Processor,32,DDR5,3.3,4,Windows 11 Operating System,NaN,35.56 
+MSI,Intel Core i3 Processor (12th Gen),8,LPDDR4X,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,AMD Ryzen 5 Hexa Core Processor,16,DDR4,4.3,747,Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i3 Processor (12th Gen),8,DDR4,3.9,34,Windows 11 Operating System,512 GB SSD,35.0 
+Lenovo,Intel Core i3 Processor (11th Gen),8,DDR4,3.3,3,64 bit Windows 11 Operating System,256 GB SSD,35.56 
+Lenovo,Intel Core i3 Processor (12th Gen),8,DDR4,NaN,NaN,Windows 11 Operating System,256 GB SSD,39.62 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i9 Processor (13th Gen),16,DDR5,4.5,14,Windows 11 Operating System,NaN,40.64 
+HP,Intel Core i5 Processor (13th Gen),16,DDR4,4.2,254,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+HP,Intel Core i5 Processor (12th Gen),16,DDR4,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Core i5 Processor (12th Gen),16,DDR5,4.6,35,Windows 11 Operating System,512 GB SSD,39.62 
+MSI,AMD Ryzen 7 Octa Core Processor (7th Gen),16,DDR5,NaN,NaN,64 bit Windows 11 Operating System,NaN,39.62 
+DELL,Intel Core i5 Processor (12th Gen),8,LPDDR4,4.1,18,Windows 11 Operating System,512 GB SSD,35.56 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+DELL,AMD Ryzen 3 Dual Core Processor,8,DDR4,4.1,486,64 bit Windows 10 Operating System,NaN,39.62 
+Infinix,Intel Core i7 Processor (12th Gen),16,LPDDR4X,4.3,70,Windows 11 Operating System,512 GB SSD,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,43.94 
+Acer,AMD Ryzen 3 Dual Core Processor,8,DDR4,4,386,64 bit Windows 11 Operating System,256 GB SSD,35.56 
+ASUS,Intel Core i3 Processor (11th Gen),8,DDR4,4.3,970,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,39.62 
+HP,AMD Ryzen 5 Hexa Core Processor,8,DDR4,4.4,136,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,AMD Ryzen 5 Quad Core Processor,16,LPDDR5,NaN,NaN,64 bit Windows 11 Home Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Lenovo,Intel Core i5 Processor (12th Gen),16,DDR5,4.6,35,Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i5 Processor (12th Gen),8,DDR4,3.3,8,Windows 11 Operating System,512 GB SSD,35.56 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,AMD Ryzen 7 Octa Core Processor,16,DDR5,4.3,455,64 bit Windows 11 Operating System,NaN,39.62 
+Acer,AMD Ryzen 5 Hexa Core Processor,16,DDR5,4.3,47,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+DELL,AMD Ryzen 5 Quad Core Processor,8,DDR4,NaN,NaN,Windows 11 Operating System,NaN,39.62 
+Lenovo,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,318,64 bit Windows 10 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+ASUS,Intel Core i5 Processor (12th Gen),16,DDR4,NaN,NaN,Windows 11 Operating System,512 GB SSD,35.56 
+Apple,Intel Core i5 Processor (8th Gen),8,DDR3,4.2,109,Mac OS Operating System,512 GB SSD,33.78 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+HP,AMD Ryzen 5 Hexa Core Processor,8,DDR4,4.1,575,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,AMD Ryzen 9 Octa Core Processor,16,DDR5,3.5,4,Windows 11 Operating System,NaN,35.56 
+Lenovo,Intel Core i5 Processor (12th Gen),16,DDR5,4.1,112,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i7 Processor (13th Gen),16,DDR4,4.6,56,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i9 Processor (13th Gen),16,DDR5,3.8,5,Windows 11 Operating System,NaN,40.64 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (12th Gen),8,DDR4,3.8,13,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Infinix,Intel Core i5 Processor (10th Gen),16,LPDDR4X,4,803,64 bit Windows 11 Operating System,512 GB SSD,35.56 
+MSI,"15.6 inches Full HD IPS Thin Bezel Display (144Hz, 45% NTSC Color Gamut)",Intel,i7,4.5,801,16 GB DDR4 RAM,NaN,1 TB HDD|256 GB SSD
+MSI,AMD Ryzen 7 Octa Core Processor,16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+ASUS,Intel Core i3 Processor (13th Gen),8,DDR4,4.2,6,Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Celeron Dual Core Processor,4,DDR4,3.6,73,Chrome Operating System,NaN,1 Year International Travelers Warranty (ITW)
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+HP,Intel Core i7 Processor (13th Gen),16,DDR4,4.2,161,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i3 Processor (11th Gen),8,DDR4,4.3,518,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+DELL,AMD Ryzen 3 Quad Core Processor,8,DDR4,4.2,9,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Celeron Dual Core Processor,8,LPDDR4X,3.6,14,Chrome Operating System,NaN,1 Year Onsite Warranty
+WINGS,Intel Core i7 Processor (11th Gen),16,DDR4,4,82,Windows 11 Operating System,512 GB SSD,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,43.94 
+DELL,Processor: R3-5425U (2.70 GHz up to 4.1 GHz),RAM,Storage:,4.4,70,"Display:14.0"" FHD WVA AG Narrow Border 250 nits",NaN,"Ports: 1 USB3.2 Gen1 Type-C port, 1 USB3.2 Gen1 port?, 1 USB 2.0 part?, 1 Headset jack, 1 HDMI 1.4, 1 Flip-down RJ 45 port 10/100/1000 Mbps?, 1 SD 3.0 card slot"
+ASUS,AMD Ryzen 9 Octa Core Processor,16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.64 
+DELL,Intel Core i3 Processor (11th Gen),8,DDR4,4.1,18,Linux/Ubuntu Operating System,256 GB SSD,35.56 
+Lenovo,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,283,Windows 11 Operating System,512 GB SSD,100.63 
+HP,Intel Core i5 Processor (12th Gen),8,LPDDR4X,4.4,80,Windows 11 Operating System,512 GB SSD,33.78 
+DELL,Intel Core i5 Processor (12th Gen),8,DDR5,4.4,155,Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i7 Processor (13th Gen),16,DDR4,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+MSI,Intel Core i7 Processor (13th Gen),16,DDR5,4.5,8,Windows 11 Operating System,NaN,39.62 
+Acer,Intel Core i9 Processor (13th Gen),32,DDR5,4.7,6,Windows 11 Operating System,NaN,40.64 
+Lenovo,AMD Ryzen 5 Quad Core Processor,8,DDR4,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,AMD Ryzen 9 16 Core Processor,32,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.64 
+ASUS,Intel Core i7 Processor (13th Gen),16,DDR4,4.5,11,Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (12th Gen),16,DDR4,3.5,6,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Core i5 Processor (12th Gen),8,DDR4,3.5,4,Windows 11 Operating System,512 GB SSD,35.56 
+ASUS,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,593,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i5 Processor (12th Gen),8,DDR4,3.7,30,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,39.62 
+MSI,Intel Core i9 Processor (13th Gen),32,DDR5,NaN,NaN,64 bit Windows 11 Operating System,NaN,40.64 
+Lenovo,Intel Core i5 Processor (11th Gen),16,DDR4,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,MediaTek Kompanio 520 Processor,8,LPDDR4X,NaN,NaN,Chrome Operating System,NaN,1 Year Carry-in Warranty
+HP,Intel Core i3 Processor (11th Gen),8,DDR4,3.9,162,DOS Operating System,1 TB HDD|256 GB SSD,39.62 
+ASUS,Intel Core i3 Processor (11th Gen),8,DDR4,4.1,32,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i5 Processor (11th Gen),8,DDR4,4.4,62,Windows 11 Operating System,512 GB SSD,39.62 
+MSI,Intel Core i7 Processor (12th Gen),16,DDR4,4.3,19,Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Pentium Quad Core Processor,8,DDR4,3.9,547,64 bit Windows 11 Operating System,256 GB SSD,35.56 
+DELL,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,13,64 bit Linux/Ubuntu Operating System,256 GB SSD,35.56 
+Apple,Apple M1 Max Processor,32,Unified,4.4,14,Mac OS Operating System,NaN,41.15 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,49,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,78,64 bit Windows 11 Operating System,512 GB SSD,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,AMD Ryzen 5 Quad Core Processor,8,LPDDR5,4.3,40,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i7 Processor (12th Gen),16,LPDDR5,4.5,6,Windows 11 Operating System,512 GB SSD,35.56 
+DELL,Intel Core i3 Processor (12th Gen),8,DDR4,4.5,15,Windows 11 Operating System,512 GB SSD,35.56 
+Lenovo,AMD Ryzen 7 Hexa Core Processor,16,DDR4,4.1,14,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+CHUWI,"Stylish, Thin and Portable Light Weight Laptop
+Processor: Intel Core i3-1005G1 (Base 1.20 GHz & Turbo upto 3.40 GHz) 2 Cores
+RAM/Storage: 8GB DDR4, 512GB SSD
+Display: 14.0"" FHD 280 nits
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keys",Intel,i3,4.1,896,8 GB DDR4 RAM,NaN,512 GB SSD
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+CHUWI,Intel Core i5 Processor (10th Gen),12,LPDDR3,NaN,NaN,64 bit Windows 11 Home Operating System,512 GB SSD,30.48 
+ASUS,AMD Ryzen 5 Quad Core Processor,16,LPDDR5,NaN,NaN,64 bit Windows 11 Home Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+HP,AMD Ryzen 7 Octa Core Processor,16,DDR4,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i3 Processor (11th Gen),8,DDR4,4.1,"1,549",64 bit Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,AMD Ryzen 9 Octa Core Processor,16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.64 
+ASUS,Intel Core i5 Processor (13th Gen),16,DDR4,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i9 Processor (12th Gen),32,DDR5,4.7,3,64 bit Windows 11 Operating System,NaN,40.64 
+MSI,Intel Core i7 Processor (13th Gen),16,DDR5,4.8,4,Windows 11 Operating System,NaN,43.94 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+ASUS,AMD Ryzen 9 Octa Core Processor,32,DDR5,3.3,4,Windows 11 Operating System,NaN,35.56 
+MICROSOFT,Intel Core i5 Processor (12th Gen),8,LPDDR5,NaN,NaN,Windows 11 Operating System,256 GB SSD,33.02 
+MSI,Intel Core i9 Processor (13th Gen),64,DDR5,NaN,NaN,Windows 11 Operating System,NaN,43.94 
+MSI,Intel Core i7 Processor (11th Gen),8,DDR4,4.3,281,64 bit Windows 10 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (13th Gen),16,DDR4,3,3,Windows 11 Operating System,512 GB SSD,35.56 
+Lenovo,Intel Core i3 Processor (13th Gen),8,LPDDR5,4.2,13,Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+realme,Intel Core i5 Processor (11th Gen),8,LPDDR4X,4.3,157,Windows 11 Operating System,512 GB SSD,35.56 
+HP,AMD Ryzen 7 Octa Core Processor,16,DDR5,4.5,156,64 bit Windows 11 Operating System,512 GB SSD,40.89 
+ASUS,AMD Ryzen 3 Quad Core Processor,8,LPDDR5,4.4,"1,176",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,AMD Ryzen 5 Hexa Core Processor,16,DDR4,4.4,418,Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+DELL,Intel Core i5 Processor (13th Gen),8,DDR4,4.5,11,Windows 11 Operating System,NaN,39.62 
+ASUS,Intel Celeron Dual Core Processor,4,DDR4,4.1,327,64 bit Windows 11 Operating System,128 GB SSD,29.46 
+WINGS,Intel Core i7 Processor (11th Gen),16,DDR4,4,82,Windows 11 Operating System,512 GB SSD,35.56 
+Lenovo,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,570,64 bit Windows 11 Operating System,256 GB SSD,39.62 
+Infinix,Intel Core i3 Processor (13th Gen),16,LPDDR4X,4.2,9,Windows 11 Operating System,512 GB SSD,40.64 
+DELL,Intel Core i3 Processor (11th Gen),8,DDR4,4.1,"1,549",64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Apple,Apple M3 Pro Processor,18,Unified,NaN,NaN,Mac OS Operating System,NaN,35.56 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+DELL,AMD Ryzen 5 Quad Core Processor,8,DDR4,5,4,Windows 11 Operating System,NaN,39.62 
+ZEBRONICS,Intel Core i7 Processor (12th Gen),16,DDR4,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+realme,Intel Core i5 Processor (11th Gen),16,LPDDR4X,4.3,545,Windows 11 Operating System,512 GB SSD,35.56 
+HP,Intel Core i7 Processor (13th Gen),16,DDR4,4.3,6,Windows 11 Operating System,512 GB SSD,35.56 
+Infinix,Intel Core i7 Processor (12th Gen),16,LPDDR4X,4.3,70,Windows 11 Operating System,512 GB SSD,35.56 
+HP,AMD Ryzen 5 Hexa Core Processor,8,DDR4,4.4,603,64 bit Windows 10 Operating System,512 GB SSD,35.56 
+CHUWI,"Stylish, Thin and Portable Light Weight Laptop
+Processor: Intel Core i3-1005G1 (Base 1.20 GHz & Turbo upto 3.40 GHz) 2 Cores
+RAM/Storage: 8GB DDR4, 512GB SSD
+Display: 14.0"" FHD 280 nits
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keys",Intel,i3,4.1,896,8 GB DDR4 RAM,NaN,512 GB SSD
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,390,Windows 11 Operating System,256 GB SSD,39.62 
+Infinix,Intel Core i3 Processor (11th Gen),8,LPDDR4X,4,62,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+ASUS,AMD Ryzen 3 Quad Core Processor,8,LPDDR5,4.4,81,Windows 11 Operating System,512 GB SSD,35.56 
+HP,AMD Ryzen 5 Hexa Core Processor,16,DDR4,4.4,"1,361",64 bit Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i7 Processor (12th Gen),16,DDR4,4.1,53,Windows 11 Operating System,NaN,40.64 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+MICROSOFT,Intel Core i5 Processor (12th Gen),8,LPDDR5,3.7,3,Windows 11 Operating System,256 GB SSD,31.5 
+Lenovo,Intel Celeron Dual Core Processor,8,DDR4,4.1,"2,372",64 bit Windows 11 Operating System,256 GB SSD,35.56 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (13th Gen),16,DDR4,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+DELL,AMD Ryzen 5 Quad Core Processor,8,LPDDR5,3.6,5,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,AMD Ryzen 5 Quad Core Processor,8,DDR4,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+DELL,AMD Ryzen 9 Octa Core Processor,16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,96.52 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+Lenovo,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,408,Windows 11 Operating System,512 GB SSD,100.63 
+HP,"Pre-installed Genuine Windows 10 Operating System (Includes Built-in Security, Free Automated Updates, Latest Features)",Intel,i5,NaN,NaN,8 GB DDR4 RAM,NaN,1 TB HDD|128 GB SSD
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+HP,Intel Core i5 Processor (12th Gen),8,DDR4,4.2,635,64 bit Windows 11 Operating System,512 GB SSD,35.56 
+Lenovo,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,47,64 bit Windows 10 Operating System,512 GB SSD,39.62 
+Lenovo,AMD Ryzen 7 Octa Core Processor,16,LPDDR4X,4.2,31,64 bit Windows 11 Operating System,512 GB SSD,35.56 
+Apple,Apple M3 Max Processor,36,Unified,NaN,NaN,Mac OS Operating System,NaN,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,43.94 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Vaio,AMD Ryzen 7 Quad Core Processor,8,DDR4,3.6,190,64 bit Windows 10 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+DELL,Processor: Intel i3-1115G4 (Base- 1.70 GHz & Turbo up to 4.10 GHz) 2 Cores,RAM,Storage:,4.1,133,Graphics & Keyboard: Integrated & Standard Keyboard,NaN,"Ports: 2 USB 3.2 Gen 1 ports, 1 USB 2.0 port, 1 Headset jack, 1 HDMI 1.4 port*,1 Flip-Down RJ-45 port 10/100/1000 Mbps, 1 SD 3.0 card slot"
+HP,Intel Core i3 Processor (11th Gen),8,DDR4,3.6,7,64 bit Windows 11 Operating System,512 GB SSD,35.56 
+MSI,Intel Core i7 Processor (13th Gen),16,DDR5,4.2,11,Windows 11 Operating System,NaN,39.62 
+Acer,AMD Ryzen 5 Hexa Core Processor,8,DDR4,4.3,324,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i3 Processor (11th Gen),8,DDR4,4.8,4,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (13th Gen),16,DDR4,4.1,107,Windows 11 Operating System,512 GB SSD,35.56 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+realme,Intel Core i5 Processor (11th Gen),8,LPDDR4X,4.2,341,Windows 11 Operating System,512 GB SSD,35.56 
+HP,Intel Core i5 Processor (11th Gen),8,DDR4,3.8,36,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (13th Gen),16,DDR5,4.4,64,Windows 11 Operating System,NaN,40.64 
+Apple,Apple M3 Processor,8,Unified,NaN,NaN,Mac OS Operating System,512 GB SSD,35.56 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+Lenovo,AMD Ryzen 3 Quad Core Processor,8,LPDDR5,4,5,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i7 Processor (11th Gen),16,DDR4,4.2,560,Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i7 Processor (11th Gen),16,DDR4,4,82,Windows 11 Operating System,512 GB SSD,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,43.94 
+Acer,Intel Core i5 Processor (13th Gen),8,DDR5,4.3,139,Windows 11 Operating System,512 GB SSD,39.62 
+HP,AMD Ryzen 5 Hexa Core Processor,16,LPDDR5,4.5,4,Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Celeron Dual Core Processor,8,DDR4,4.1,"2,372",64 bit Windows 11 Operating System,256 GB SSD,35.56 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i9 Processor (13th Gen),16,DDR5,4,4,Windows 11 Operating System,NaN,40.64 
+Acer,Intel Core i5 Processor (11th Gen),8,DDR4,NaN,NaN,64 bit Windows 11 Operating System,NaN,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+ASUS,Intel Core i7 Processor (12th Gen),16,LPDDR5,4.5,6,Windows 11 Operating System,512 GB SSD,35.56 
+HP,AMD Ryzen 5 Hexa Core Processor,8,DDR4,4.4,"1,361",64 bit Windows 11 Operating System,512 GB SSD,35.56 
+ZEBRONICS,Intel Core i7 Processor (12th Gen),16,DDR4,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+HP,AMD Ryzen 5 Hexa Core Processor,8,DDR4,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+CHUWI,"Stylish, Thin and Portable Light Weight Laptop
+Processor: Intel Core i3-1005G1 (Base 1.20 GHz & Turbo upto 3.40 GHz) 2 Cores
+RAM/Storage: 8GB DDR4, 512GB SSD
+Display: 14.0"" FHD 280 nits
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keys",Intel,i3,4.1,896,8 GB DDR4 RAM,NaN,512 GB SSD
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+HP,AMD Ryzen 5 Hexa Core Processor,16,DDR4,4.3,747,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (10th Gen),8,LPDDR3,NaN,NaN,64 bit Windows 10 Operating System,512 GB SSD,35.56 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,390,Windows 11 Operating System,256 GB SSD,39.62 
+Acer,Intel Core i7 Processor (12th Gen),16,DDR5,5,5,64 bit Windows 11 Operating System,NaN,39.62 
+ASUS,AMD Ryzen 7 Octa Core Processor,16,DDR4,NaN,NaN,Windows 11 Operating System,NaN,39.62 
+ASUS,Intel Core i9 Processor (12th Gen),32,DDR5,NaN,NaN,64 bit Windows 11 Operating System,NaN,39.62 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+MSI,Intel Core i3 Processor (12th Gen),16,DDR4,4.4,28,Windows 11 Operating System,512 GB SSD,35.56 
+ASUS,Intel Core i5 Processor (13th Gen),16,LPDDR5,4.2,6,Windows 11 Operating System,512 GB SSD,33.78 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+Infinix,Intel Core i7 Processor (13th Gen),16,LPDDR4X,NaN,NaN,Windows 11 Operating System,512 GB SSD,40.64 
+HP,Intel Core i3 Processor (13th Gen),8,DDR4,4.2,207,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (12th Gen),16,DDR4,4.1,"2,130",64 bit Windows 11 Operating System,512 GB SSD,35.56 
+ASUS,Intel Core i7 Processor (12th Gen),16,DDR4,4.1,53,Windows 11 Operating System,NaN,40.64 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (13th Gen),16,DDR5,5,6,Windows 11 Operating System,NaN,40.64 
+Apple,Apple M3 Processor,8,Unified,NaN,NaN,Mac OS Operating System,NaN,35.56 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+MSI,Intel Core i5 Processor (12th Gen),8,LPDDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,33.78 
+WINGS,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,390,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i9 Processor (13th Gen),16,DDR4,3.7,3,Windows 11 Operating System,NaN,39.62 
+ASUS,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Home Operating System,NaN,40.64 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+DELL,Intel Core i5 Processor (11th Gen),16,DDR4,3.9,53,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i7 Processor (12th Gen),16,DDR4,4.2,193,64 bit Windows 11 Operating System,NaN,35.56 
+WINGS,Intel Core i7 Processor (11th Gen),16,DDR4,4,82,Windows 11 Operating System,512 GB SSD,35.56 
+Lenovo,Intel Core i3 Processor (11th Gen),8,LPDDR4,NaN,NaN,DOS Operating System,512 GB SSD,35.56 
+Acer,Intel Core i7 Processor (12th Gen),16,LPDDR5,NaN,NaN,64 bit Windows 11 Operating System,NaN,35.56 
+MSI,Intel Core i7 Processor (13th Gen),16,DDR5,4.7,21,Windows 11 Operating System,NaN,43.94 
+DELL,Intel Core i7 Processor (12th Gen),16,DDR5,3.7,44,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,AMD Ryzen 5 Processor,16,DDR4,NaN,NaN,Windows 11 Home Operating System,NaN,35.56 
+ASUS,AMD Ryzen 5 Hexa Core Processor (5th Gen),16,DDR4,NaN,NaN,64 bit Windows 11 Home Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+ASUS,Intel Core i7 Processor (10th Gen),16,LPDDR3,NaN,NaN,64 bit Windows 10 Operating System,NaN,35.56 
+DELL,AMD Ryzen 5 Hexa Core Processor,8,DDR5,4,172,64 bit Windows 11 Operating System,512 GB SSD,96.52 
+ASUS,Intel Core i3 Processor (10th Gen),8,DDR4,4.3,"12,532",64 bit Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i3 Processor (11th Gen),8,DDR4,4.3,250,64 bit Windows 10 Operating System,512 GB SSD,35.56 
+CHUWI,"Stylish, Thin and Portable Light Weight Laptop
+Processor: Intel Core i3-1005G1 (Base 1.20 GHz & Turbo upto 3.40 GHz) 2 Cores
+RAM/Storage: 8GB DDR4, 512GB SSD
+Display: 14.0"" FHD 280 nits
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keys",Intel,i3,4.1,896,8 GB DDR4 RAM,NaN,512 GB SSD
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i5 Processor (11th Gen),8,DDR4,3.8,9,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,39.62 
+Lenovo,Intel Core i7 Processor (12th Gen),16,LPDDR5,NaN,NaN,Windows 11 Operating System,NaN,36.83 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+ALIENWARE,NVIDIA GeForce RTX 2070,15.6,Full,4,5,Alienware Cryo-tech thermal technology to keep the system cool and running at highest performance,NaN,In-built Alienware Command center software with enhanced control over system settings
+SAMSUNG,Intel Core i7 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.64 
+MSI,Intel Core i3 Processor (13th Gen),8,DDR4,4.3,6,Windows 11 Operating System,512 GB SSD,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Lenovo,Intel Core i7 Processor (12th Gen),16,DDR4,NaN,NaN,Windows 11 Operating System,512 GB SSD,35.56 
+MSI,Intel Core i7 Processor (12th Gen),16,DDR4,4.5,85,Windows 11 Operating System,NaN,39.62 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.7,30,Windows 11 Operating System,512 GB SSD,39.62 
+MSI,Intel Core i7 Processor (13th Gen),16,DDR5,4.7,13,Windows 11 Operating System,512 GB SSD,43.94 
+HP,AMD Ryzen 3 Dual Core Processor (3rd Gen),8,DDR4,3.8,10,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Hexa Core i5 Processor,8,DDR4,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,40.64 
+HP,AMD Athlon Dual Core Processor,4,DDR4,2.3,3,Windows 11 Operating System,256 GB SSD,39.62 
+HP,AMD Ryzen 3 Dual Core Processor,8,DDR4,4.2,377,Windows 11 Operating System,512 GB SSD,35.56 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+HP,Intel Core i5 Processor (13th Gen),16,LPDDR5,4.4,26,Windows 11 Operating System,512 GB SSD,35.56 
+ASUS,Intel Core i5 Processor (13th Gen),16,DDR4,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+HP,AMD Ryzen 7 Octa Core Processor,16,DDR5,4.4,57,64 bit Windows 11 Operating System,512 GB SSD,40.89 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+SAMSUNG,Intel Core i7 Processor (13th Gen),16,DDR4X,4.4,11,Windows 11 Operating System,NaN,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Processor: Intel i5-1235U (Base- 3.30 GHz & Turbo up to 4.40 GHz) 10 Cores,RAM,Storage:,3.9,34,Graphics & Keyboard: Integrated & Backlit Keyboard + Fingerprint Reader,NaN,Intel Core i5 Processor (12th Gen)
+DELL,Intel Core i5 Processor (10th Gen),8,LPDDR4X,3.3,3,64 bit Windows 10 Operating System,512 GB SSD,33.78 
+Apple,Apple M1 Pro Processor,16,Unified,4.8,137,Mac OS Operating System,NaN,36.07 
+Lenovo,Intel Core i5 Processor (13th Gen),16,LPDDR5,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,40.64 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"1,680",64 bit Windows 10 Operating System,512 GB SSD,35.56 
+Acer,Intel Core i5 Processor (11th Gen),8,DDR4,3.7,344,64 bit Windows 10 Operating System,NaN,35.56 
+CHUWI,"Stylish, Thin and Portable Light Weight Laptop
+Processor: Intel Core i3-1005G1 (Base 1.20 GHz & Turbo upto 3.40 GHz) 2 Cores
+RAM/Storage: 8GB DDR4, 512GB SSD
+Display: 14.0"" FHD 280 nits
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keys",Intel,i3,4.1,896,8 GB DDR4 RAM,NaN,512 GB SSD
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (12th Gen),16,DDR4,4.1,113,64 bit Windows 11 Operating System,512 GB SSD,35.56 
+ASUS,ARM Ryzen 7 Octa Core Processor,16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,39.62 
+ASUS,AMD Ryzen 5 Hexa Core Processor,16,DDR4,4.5,320,Windows 11 Operating System,NaN,39.62 
+DELL,AMD Ryzen 5 Hexa Core Processor,8,DDR4,2.7,3,64 bit Windows 11 Operating System,512 GB SSD,35.56 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,390,Windows 11 Operating System,256 GB SSD,39.62 
+ASUS,Intel Core i3 Processor (11th Gen),8,DDR4,3.8,37,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i9 Processor (12th Gen),16,DDR5,3.8,6,64 bit Windows 11 Operating System,NaN,39.62 
+WINGS,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,390,Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+ASUS,Intel Core i5 Processor (12th Gen),16,DDR4,4.5,358,Windows 11 Home Operating System,512 GB SSD,39.62 
+Lenovo,AMD Ryzen 7 Octa Core Processor,32,DDR4,4.8,4,Windows 11 Operating System,NaN,40.64 
+ASUS,AMD Ryzen 9 Octa Core Processor,16,DDR5,2.7,3,Windows 11 Operating System,NaN,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i3 Processor (10th Gen),8,DDR4,4.4,"1,832",64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,39.62 
+HP,AMD Athlon Dual Core Processor,4,DDR4,2.3,3,Windows 11 Operating System,256 GB SSD,39.62 
+Acer,Free upgrade to Windows 11 when available,AMD,5,4.4,"6,477",8 GB DDR4 RAM,NaN,512 GB SSD
+ASUS,Intel Core i5 Processor (13th Gen),16,DDR4,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (10th Gen),8,DDR4,5,2,64 bit Windows 10 Operating System,512 GB SSD,33.78 
+DELL,"Processor: Intel i3-1215U (0.9 GHz up to 4.40 GHz), 6 Cores, 10MB CPU Cache",RAM,Storage:,4,34,"Display: 14.0"" FHD+ WVA Truelife Touch Narrow Border 250 nits, Dell Active Pen",NaN,"Ports: 1 HDMI out 1.4, 1 USB 3.2 Gen 1 Type-A , 2 USB 3.2 Gen 2x2 Type-C with PowerDelivery and Video, 1 3.5mm Headphone/Microphone combination jack, SD Card Reader"
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+ASUS,AMD Ryzen 9 Octa Core Processor,32,DDR5,NaN,NaN,64 bit Windows 11 Operating System,NaN,40.64 
+MSI,Intel Core i7 Processor (13th Gen),16,DDR5,4.7,13,Windows 11 Operating System,512 GB SSD,43.94 
+Acer,AMD Ryzen 3 Quad Core Processor,8,LPDDR5,4.2,513,Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Core i5 Processor (13th Gen),16,LPDDR5,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,40.64 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+ASUS,AMD Ryzen 5 Processor,16,DDR4,4.3,3,Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Core i7 Processor (12th Gen),16,LPDDR5,NaN,NaN,Windows 11 Operating System,NaN,36.83 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i7 Processor (12th Gen),16,DDR4,4.2,5,Windows 11 Operating System,512 GB SSD,40.64 
+Lenovo,AMD Ryzen 7 Octa Core Processor,16,DDR4,4.4,169,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Home Operating System,NaN,40.64 
+HP,Intel Core i5 Processor (13th Gen),16,DDR4,4.7,3,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,AMD Ryzen 7 Octa Core Processor (12th Gen),16,DDR4,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+ASUS,AMD Ryzen 3 Dual Core Processor,4,DDR4,4.3,"1,681",64 bit Windows 10 Operating System,256 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Lenovo,Intel Celeron Dual Core Processor (4th Gen),4,DDR4,4,"1,115",64 bit Windows 10 Operating System,256 GB SSD,35.56 
+Apple,Apple M3 Processor,8,Unified,NaN,NaN,Mac OS Operating System,NaN,35.56 
+Lenovo,Intel Core i3 Processor (10th Gen),4,DDR4,3.9,51,64 bit Windows 10 Operating System,256 GB SSD,39.62 
+HP,AMD Ryzen 5 Hexa Core Processor,8,DDR4,4.4,"1,844",64 bit Windows 11 Operating System,512 GB SSD,39.62 
+CHUWI,"Stylish, Thin and Portable Light Weight Laptop
+Processor: Intel Core i3-1005G1 (Base 1.20 GHz & Turbo upto 3.40 GHz) 2 Cores
+RAM/Storage: 8GB DDR4, 512GB SSD
+Display: 14.0"" FHD 280 nits
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keys",Intel,i3,4.1,896,8 GB DDR4 RAM,NaN,512 GB SSD
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i9 Processor (12th Gen),16,DDR5,3.8,6,64 bit Windows 11 Operating System,NaN,39.62 
+ASUS,AMD Ryzen 7 Octa Core Processor,16,DDR4,4.3,54,Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+HP,AMD Ryzen 7 Octa Core Processor,16,DDR5,4.4,57,64 bit Windows 11 Operating System,512 GB SSD,40.89 
+Lenovo,AMD Ryzen 5 Hexa Core Processor,8,DDR4,4.5,19,Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Core i3 Processor (11th Gen),8,LPDDR4,NaN,NaN,DOS Operating System,512 GB SSD,35.56 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i3 Processor (11th Gen),8,DDR4,4.1,10,Windows 11 Operating System,512 GB SSD,39.62 
+ALIENWARE,NVIDIA GeForce GTX 1660 Ti,15.6,Full,4.9,13,Alienware Cryo-tech thermal technology to keep the system cool and running at highest performance,NaN,In-built Alienware Command center software with enhanced control over system settings
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i7 Processor (10th Gen),16,LPDDR3,4,2,64 bit Windows 10 Operating System,NaN,35.56 
+DELL,Intel Core i5 Processor (13th Gen),8,LPDDR5,3.8,5,Windows 11 Operating System,512 GB SSD,35.56 
+DELL,Intel Core i3 Processor (11th Gen),8,DDR4,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,35.56 
+MSI,Intel Core i7 Processor (13th Gen),16,DDR5,3.7,3,Windows 11 Operating System,512 GB SSD,43.94 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+Lenovo,Intel Core i7 Processor (11th Gen),16,DDR4,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,AMD Ryzen 3 Dual Core Processor (3rd Gen),8,DDR4,4,12,Windows 11 Operating System,512 GB SSD,35.56 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+HP,AMD Ryzen 5 Quad Core Processor (3rd Gen),8,DDR4,3.5,42,DOS Operating System,NaN,39.62 
+ASUS,Intel Celeron Dual Core Processor,4,LPDDR4,3.7,"2,064",Chrome Operating System,NaN,1 Year Onsite Warranty
+HP,AMD Ryzen 7 Octa Core Processor,16,DDR4,4.2,14,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Core i5 Processor (12th Gen),16,DDR4,4.2,12,Windows 11 Operating System,NaN,39.62 
+DELL,Intel Core i5 Processor (12th Gen),16,DDR5,4.1,258,64 bit Windows 11 Operating System,512 GB SSD,96.52 
+WINGS,Intel Core i7 Processor (11th Gen),16,DDR4,4,82,Windows 11 Operating System,512 GB SSD,35.56 
+HP,AMD Ryzen 7 Octa Core Processor,16,DDR4,3.6,8,64 bit Windows 11 Operating System,512 GB SSD,40.89 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i7 Processor (12th Gen),16,LPDDR4,4.3,3,Windows 11 Operating System,512 GB SSD,33.78 
+MSI,Intel Core i9 Processor (13th Gen),32,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.64 
+Lenovo,AMD Ryzen 3 Hexa Core Processor,8,DDR4,4.3,972,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i7 Processor (11th Gen),16,DDR4,3.4,7,64 bit Windows 11 Operating System,NaN,40.89 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+WINGS,Intel Core i7 Processor (11th Gen),16,DDR4,4,82,Windows 11 Operating System,512 GB SSD,35.56 
+Infinix,Intel Core i5 Processor (10th Gen),8,LPDDR4X,4.3,111,Windows 11 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,AMD Ryzen 3 Octa Core Processor,8,DDR4,4.4,8,Windows 11 Operating System,512 GB SSD,35.56 
+HP,Intel Core i7 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,40.89 
+ASUS,Intel Core i5 Processor (10th Gen),8,DDR4,4.5,4,Windows 11 Operating System,NaN,39.62 
+Lenovo,AMD Ryzen 5 Hexa Core Processor,8,DDR4,4.5,19,Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,40.64 
+Lenovo,AMD Ryzen 7 Octa Core Processor,16,LPDDR4X,NaN,NaN,Windows 11 Operating System,NaN,33.78 
+ASUS,Intel Core i9 Processor (13th Gen),16,DDR5,4.3,29,Windows 11 Operating System,NaN,40.64 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+MSI,Intel Core i7 Processor (12th Gen),16,DDR5,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i7 Processor (12th Gen),16,DDR4,4.4,21,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Infinix,Intel Core i7 Processor (12th Gen),16,LPDDR4X,4.3,70,Windows 11 Operating System,512 GB SSD,35.56 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+HP,AMD Ryzen 5 Hexa Core Processor,16,LPDDR5,4.5,4,Windows 11 Operating System,512 GB SSD,39.62 
+MSI,Intel Core i7 Processor (12th Gen),16,DDR5,4.3,4,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+ASUS,Intel Core i3 Processor (13th Gen),8,DDR4,4.4,5,Windows 11 Operating System,512 GB SSD,39.62 
+MSI,Intel Core i5 Processor (11th Gen),16,DDR4,4.1,61,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i3 Processor (10th Gen),8,DDR4,4.4,"2,006",64 bit Windows 10 Operating System,512 GB SSD,39.62 
+Infinix,Intel Core i5 Processor (10th Gen),8,LPDDR4X,4.1,957,64 bit Windows 11 Operating System,512 GB SSD,35.56 
+CHUWI,"Stylish, Thin and Portable Light Weight Laptop
+Processor: Intel Core i3-1005G1 (Base 1.20 GHz & Turbo upto 3.40 GHz) 2 Cores
+RAM/Storage: 8GB DDR4, 512GB SSD
+Display: 14.0"" FHD 280 nits
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keys",Intel,i3,4.1,896,8 GB DDR4 RAM,NaN,512 GB SSD
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i7 Processor (13th Gen),16,DDR4,4.3,6,Windows 11 Operating System,512 GB SSD,35.56 
+SAMSUNG,Intel Core i7 Processor (13th Gen),16,DDR4X,3.3,3,Windows 11 Operating System,NaN,33.78 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+HP,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,40.89 
+Lenovo,Intel Celeron Dual Core Processor,4,DDR4,3.7,695,64 bit Windows 11 Operating System,256 GB SSD,29.46 
+HP,AMD Ryzen 3 Dual Core Processor (3rd Gen),8,DDR4,3.8,10,Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i5 Processor (11th Gen),16,DDR4,4.8,5,Windows 11 Operating System,512 GB SSD,35.56 
+WINGS,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,390,Windows 11 Operating System,256 GB SSD,39.62 
+ASUS,AMD Ryzen 5 Hexa Core Processor (10th Gen),16,DDR4,4.7,6,Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i7 Processor (11th Gen),8,DDR4,NaN,NaN,Windows 10 Operating System,512 GB SSD,35.56 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Celeron Dual Core Processor,8,LPDDR4X,3.5,128,Chrome Operating System,NaN,1 Year Onsite Warranty
+DELL,Intel Core i3 Processor (11th Gen),8,DDR4,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,35.56 
+HP,Intel Core i5 Processor (13th Gen),16,DDR4,4.3,250,Windows 11 Operating System,NaN,39.62 
+Lenovo,Intel Core i5 Processor (11th Gen),8,DDR4,NaN,NaN,64 bit DOS Operating System,512 GB SSD,35.56 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Core i7 Processor (10th Gen),16,DDR4,3.8,10,64 bit Windows 10 Operating System,NaN,39.62 
+ASUS,Intel Celeron Dual Core Processor,8,DDR4,4,115,Windows 11 Operating System,256 GB SSD,35.56 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+MSI,Intel Core i5 Processor (13th Gen),16,DDR4,4.1,50,Windows 11 Operating System,512 GB SSD,35.56 
+HP,Intel Core i7 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,40.89 
+HP,AMD Ryzen 5 Hexa Core Processor,8,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,169,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+MSI,Intel Core i7 Processor (12th Gen),16,DDR5,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,AMD Ryzen 5 Quad Core Processor (3rd Gen),8,DDR4,3.5,42,DOS Operating System,NaN,39.62 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i7 Processor (12th Gen),16,LPDDR4X,4.2,78,Windows 11 Operating System,NaN,33.78 
+DELL,AMD Ryzen 7 Octa Core Processor,16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Core i5 Processor (10th Gen),8,DDR4,4.2,529,64 bit Windows 10 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,127,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i3 Processor (10th Gen),8,DDR4,4.1,"1,031",64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Lenovo,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,436,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (10th Gen),8,DDR4,4.4,"6,951",Windows 11 Operating System,512 GB SSD,39.62 
+DELL,AMD Ryzen 5 Hexa Core Processor,16,DDR4,4.5,11,64 bit Windows 11 Operating System,512 GB SSD,35.56 
+HP,Intel Core i7 Processor (11th Gen),16,DDR4,3.4,7,64 bit Windows 11 Operating System,NaN,40.89 
+CHUWI,"Stylish, Thin and Portable Light Weight Laptop
+Processor: Intel Core i3-1005G1 (Base 1.20 GHz & Turbo upto 3.40 GHz) 2 Cores
+RAM/Storage: 8GB DDR4, 512GB SSD
+Display: 14.0"" FHD 280 nits
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keys",Intel,i3,4.1,896,8 GB DDR4 RAM,NaN,512 GB SSD
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i7 Processor (10th Gen),16,LPDDR3,NaN,NaN,64 bit Windows 10 Operating System,NaN,35.56 
+ASUS,AMD Ryzen 9 Octa Core Processor,32,DDR5,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+HP,AMD Ryzen 5 Quad Core Processor,8,DDR4,3.8,43,Windows 11 Operating System,512 GB SSD,35.56 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+ASUS,Intel Core i3 Processor (11th Gen),8,DDR4,4.3,"7,027",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+HP,AMD Ryzen 7 Octa Core Processor,8,DDR4,4.3,14,64 bit Windows 11 Operating System,512 GB SSD,40.89 
+Lenovo,Intel Core i5 Processor (12th Gen),16,DDR4,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+ZEBRONICS,Intel Core i5 Processor (11th Gen),16,LPDDR4X,4,325,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i9 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,39.62 
+Acer,Intel Core i5 Processor (11th Gen),8,DDR4,4.6,23,64 bit Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Core i5 Processor (8th Gen),4,DDR4,4,21,64 bit Windows 10 Operating System,NaN,39.62 
+CHUWI,"Stylish, Thin and Portable Light Weight Laptop
+Processor: Intel Core i3-1005G1 (Base 1.20 GHz & Turbo upto 3.40 GHz) 2 Cores
+RAM/Storage: 8GB DDR4, 512GB SSD
+Display: 14.0"" FHD 280 nits
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keys",Intel,i3,4.1,896,8 GB DDR4 RAM,NaN,512 GB SSD
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+Infinix,Intel Core i5 Processor (10th Gen),16,LPDDR4X,4,803,64 bit Windows 11 Operating System,512 GB SSD,35.56 
+Lenovo,AMD Ryzen 7 Octa Core Processor,16,DDR5,4.3,33,Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,AMD Ryzen 5 Hexa Core Processor,8,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,AMD Ryzen 5 Hexa Core Processor,16,DDR4,4.2,"3,491",Windows 11 Operating System,512 GB SSD,39.62 
+DELL,Intel Core i5 Processor (11th Gen),8,DDR4,3.7,6,64 bit Windows 11 Operating System,512 GB SSD,35.56 
+Lenovo,AMD Ryzen 5 Hexa Core Processor,16,DDR5,NaN,NaN,64 bit Windows 11 Operating System,512 GB SSD,35.56 
+WINGS,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,390,Windows 11 Operating System,256 GB SSD,39.62 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+ASUS,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core Ultra 7 Processor,16,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+DELL,Intel Core i5 Processor (8th Gen),8,DDR4,4,24,64 bit Windows 10 Operating System,NaN,35.56 
+HP,Intel Core i3 Processor (11th Gen),8,DDR4,4.1,"5,306",64 bit Windows 10 Operating System,NaN,39.62 
+DELL,Intel Core i5 Processor (11th Gen),16,DDR4,NaN,NaN,Windows 10 Operating System,512 GB SSD,39.62 
+WINGS,Intel Core i3 Processor (11th Gen),8,DDR4,4.2,390,Windows 11 Operating System,512 GB SSD,39.62 
+Acer,Intel Core i5 Processor (13th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,512 GB SSD,39.62 
+ASUS,Intel Core i5 Processor (11th Gen),16,DDR4,4.4,"1,704",Windows 11 Operating System,512 GB SSD,39.62 
+Lenovo,Intel Celeron Dual Core Processor,4,DDR4,3.5,23,Chrome Operating System,NaN,1 Year Carry-in Warranty
+Lenovo,Intel Pentium Quad Core Processor,4,LPDDR5,NaN,NaN,Chrome Operating System,NaN,1 Year Carry-in Warranty
+WINGS,Intel Core i5 Processor (11th Gen),8,DDR4,4.1,"1,252",Windows 11 Operating System,512 GB SSD,39.62 
+HP,Intel Core i5 Processor (11th Gen),16,DDR4,4.3,749,Windows 11 Operating System,512 GB SSD,40.89 
+Acer,Free upgrade to Windows 11 when available,AMD,5,4.5,311,16 GB DDR4 RAM,NaN,1 TB HDD|256 GB SSD
+ASUS,AMD Ryzen 7 Octa Core Processor,16,DDR5,4.6,62,Windows 11 Operating System,NaN,39.62 
+Lenovo,Intel Core i3 Processor (11th Gen),4,DDR4,5,4,64 bit Windows 10 Operating System,512 GB SSD,38.1 
+Lenovo,Intel Core i5 Processor (11th Gen),8,DDR4,NaN,NaN,64 bit Windows 10 Operating System,256 GB SSD,38.1 
+HP,Intel Core Ultra 7 Processor,32,LPDDR5X,NaN,NaN,Windows 11 Operating System,NaN,35.56 
+HP,Intel Core i7 Processor (14th Gen),16,DDR5,NaN,NaN,Windows 11 Operating System,NaN,40.89 
+Lenovo,Intel Core i3 Processor (12th Gen),8,DDR4,3.6,14,Windows 11 Operating System,512 GB SSD,35.56 
+ASUS,Intel Celeron Dual Core Processor,4,DDR4,3.8,157,Windows 10 Operating System,NaN,"Splendid (All Models), Tru2Life (Intel Platform Models), Link to MyASUS (All Models, Bluetooth Needed)"
+WINGS,Intel Core i7 Processor (11th Gen),16,DDR4,4,82,Windows 11 Operating System,512 GB SSD,35.56 
+ASUS,Intel Core i5 Processor (11th Gen),8,DDR4,4.3,"3,084",Windows 11 Operating System,512 GB SSD,43.94 
+ASUS,AMD Ryzen 7 Octa Core Processor,8,DDR4,4.4,"1,470",64 bit Windows 11 Operating System,512 GB SSD,43.94 
